@@ -1,0 +1,30 @@
+/* globals.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.header,
+.footer {
+  padding: 1rem;
+  background-color: #f8f9fa;
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.btn {
+  margin-right: 0.5rem;
+}

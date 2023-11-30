@@ -1,0 +1,4 @@
+A aplicação só fica totalmente responsiva com a liberação do IP no MongoDB, não consegui liberar para todos.
+
+lucas.queiroz@ramaral.com
+Saintseiya*1

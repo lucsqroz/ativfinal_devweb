@@ -1,0 +1,39 @@
+/* admin.css */
+.admin-page {
+  padding: 2rem;
+}
+
+.user-table {
+  width: 100%;
+  margin-top: 1rem;
+  border-collapse: collapse;
+}
+
+.user-table th,
+.user-table td {
+  text-align: left;
+  padding: 0.5rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.user-table th {
+  background-color: #e9ecef;
+}
+
+.user-table td button {
+  padding: 0.3rem 0.6rem;
+  margin-right: 0.3rem;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.user-table td button.edit {
+  background-color: #ffc107;
+  color: white;
+}
+
+.user-table td button.delete {
+  background-color: #dc3545;
+  color: white;
+}
